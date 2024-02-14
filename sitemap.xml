@@ -137,11 +137,6 @@
 	<priority>0.8</priority>
 </url>
 <url>
-	<loc>https://direct.farm/content/e38/e38e04c8228943668c0778bfcb4f95918822860.pdf</loc>
-	<lastmod>2024-02-14T21:25:00+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
 	<loc>https://direct.farm/user/2103</loc>
 	<lastmod>2024-02-14T21:25:00+01:00</lastmod>
 	<priority>0.8</priority>
@@ -150,11 +145,6 @@
 	<loc>https://direct.farm/news</loc>
 	<lastmod>2024-02-14T21:25:00+01:00</lastmod>
 	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://direct.farm/content/d22/d222a8ce9244489bb3142d5723e022ba2725585.pdf</loc>
-	<lastmod>2024-02-14T21:25:00+01:00</lastmod>
-	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://direct.farm/user/2272</loc>
@@ -392,11 +382,6 @@
 	<priority>0.8</priority>
 </url>
 <url>
-	<loc>https://direct.farm/content/static/DirectFarmAdvertisingFormats.pdf</loc>
-	<lastmod>2024-02-14T21:25:00+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
 	<loc>https://direct.farm/feed/work/vacancy</loc>
 	<lastmod>2024-02-14T21:25:00+01:00</lastmod>
 	<priority>0.6</priority>
@@ -615,16 +600,6 @@
 	<loc>https://direct.farm/company/175</loc>
 	<lastmod>2024-02-14T21:25:09+01:00</lastmod>
 	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://direct.farm/content/b09/b09c094d5ea54886a2ef819f0bc62b453462963.pdf</loc>
-	<lastmod>2024-02-14T21:25:09+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://direct.farm/content/449/4490c546ad404528934a2be3af47b2681074956.pdf</loc>
-	<lastmod>2024-02-14T21:25:09+01:00</lastmod>
-	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://direct.farm/user/39613</loc>
@@ -922,24 +897,9 @@
 	<priority>0.8</priority>
 </url>
 <url>
-	<loc>https://direct.farm/content/adf/adf03a4f4b8c409b90aea6516e0cf9ee1889218.pdf</loc>
-	<lastmod>2024-02-14T21:25:10+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
 	<loc>https://direct.farm/user/277</loc>
 	<lastmod>2024-02-14T21:25:10+01:00</lastmod>
 	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://direct.farm/content/022/02202f7a47394bd9abcdcfd33555b93791734.pdf</loc>
-	<lastmod>2024-02-14T21:25:10+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://direct.farm/content/dee/deee659393c5441fbaa75883a534ae0341184.pdf</loc>
-	<lastmod>2024-02-14T21:25:10+01:00</lastmod>
-	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://direct.farm/user/4889</loc>
