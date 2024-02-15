@@ -1,198 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<office:document-content xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" office:version="1.2">
-  <office:font-face-decls>
-    <style:font-face style:name="Courier New" style:font-family-generic="modern" style:font-pitch="fixed" svg:font-family="'Courier New'" />
-  </office:font-face-decls>
-  <office:automatic-styles>
-    <style:style style:name="fr2" style:family="graphic" style:parent-style-name="Formula"><style:graphic-properties style:vertical-pos="middle" style:vertical-rel="text" style:horizontal-pos="center" style:horizontal-rel="paragraph-content" style:wrap="none" /></style:style>
-    <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Formula"><style:graphic-properties style:vertical-pos="middle" style:vertical-rel="text" /></style:style>
-  </office:automatic-styles>
-<office:body>
-<office:text>
-<text:p text:style-name="Title">VK</text:p>
-<text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="section" /><text:bookmark-end text:name="section" /></text:h>
-<text:p text:style-name="First_20_paragraph"><text:a xlink:type="simple" xlink:href="../../index.html" office:name=""><text:span text:style-name="Definition">Ïðîôèëü</text:span></text:a></text:p>
-<text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="../index-messages.html" office:name=""><text:span text:style-name="Definition">Ñîîáùåíèÿ</text:span></text:a></text:p>
-<text:p text:style-name="Text_20_body">Ìàêñèì Åëêèí</text:p>
-<text:p text:style-name="Text_20_body">Âû, 16 ÿíâ 2024 â
-10:10:52</text:p>
-<text:p text:style-name="Text_20_body">Êóäà ñâàëìë</text:p>
-<text:p text:style-name="Text_20_body">Âû, 26 äåê 2023 â
-12:02:55</text:p>
-<text:p text:style-name="Text_20_body">Çâîíîê</text:p>
-<text:p text:style-name="Text_20_body">Âû, 26 äåê 2023 â
-12:02:28</text:p>
-<text:p text:style-name="Text_20_body">Òàì åùå ïîäïèñè</text:p>
-<text:p text:style-name="Text_20_body">Âû, 26 äåê 2023 â
-12:02:26</text:p>
-<text:p text:style-name="Text_20_body">Ìàêñèì âåðíèñü!!</text:p>
-<text:p text:style-name="Text_20_body">Âû, 19 äåê 2023 â
-11:23:33</text:p>
-<text:p text:style-name="Text_20_body">Íàâðçíàÿ æèæà</text:p>
-<text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="https://vk.com/id302152734" office:name=""><text:span text:style-name="Definition">Ìàêñèì
-Åëêèí</text:span></text:a>, 18 äåê 2023 â 12:53:42</text:p>
-<text:p text:style-name="Text_20_body">Ìû âûøëè</text:p>
-<text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="https://vk.com/id302152734" office:name=""><text:span text:style-name="Definition">Ìàêñèì
-Åëêèí</text:span></text:a>, 18 äåê 2023 â 12:53:39</text:p>
-<text:p text:style-name="Text_20_body">Òû ãäå</text:p>
-<text:p text:style-name="Text_20_body">Âû, 18 äåê 2023 â
-12:50:29</text:p>
-<text:p text:style-name="Text_20_body">À âû óøëè</text:p>
-<text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="https://vk.com/id302152734" office:name=""><text:span text:style-name="Definition">Ìàêñèì
-Åëêèí</text:span></text:a>, 18 äåê 2023 â 9:52:22</text:p>
-<text:p text:style-name="Text_20_body">1 ïðèêðåïë¸ííîå
-ñîîáùåíèå</text:p>
-<text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="https://vk.com/id302152734" office:name=""><text:span text:style-name="Definition">Ìàêñèì
-Åëêèí</text:span></text:a>, 18 äåê 2023 â 9:49:57</text:p>
-<text:p text:style-name="Text_20_body">1 ïðèêðåïë¸ííîå
-ñîîáùåíèå</text:p>
-<text:p text:style-name="Text_20_body">Âû, 16 äåê 2023 â
-10:48:55</text:p>
-<text:p text:style-name="Text_20_body">íó ëàäíî</text:p>
-<text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="https://vk.com/id302152734" office:name=""><text:span text:style-name="Definition">Ìàêñèì
-Åëêèí</text:span></text:a>, 16 äåê 2023 â 10:48:43</text:p>
-<text:p text:style-name="Text_20_body">Åù¸ íåò</text:p>
-<text:p text:style-name="Text_20_body">Âû, 16 äåê 2023 â
-10:48:21</text:p>
-<text:p text:style-name="Text_20_body">Ìàêñèì ïðèâåò à òû äåëàë ïî ìàè
-òàáëèöû ýòè</text:p>
-<text:p text:style-name="Text_20_body">Âû, 11 äåê 2023 â
-12:08:11</text:p>
-<text:p text:style-name="Text_20_body">ìåëêèí</text:p>
-<text:p text:style-name="Text_20_body">Âû, 11 äåê 2023 â
-11:23:37</text:p>
-<text:p text:style-name="Text_20_body">ÇÄÀÐÎÂÀ</text:p>
-<text:p text:style-name="Text_20_body">Âû, 30 íîÿ 2023 â
-9:30:08</text:p>
-<text:p text:style-name="Text_20_body">Ï÷îëêèí</text:p>
-<text:p text:style-name="Text_20_body">Âû, 27 íîÿ 2023 â
-6:51:26</text:p>
-<text:p text:style-name="Text_20_body">íó ëàäíî</text:p>
-<text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="https://vk.com/id302152734" office:name=""><text:span text:style-name="Definition">Ìàêñèì
-Åëêèí</text:span></text:a>, 27 íîÿ 2023 â 6:50:54</text:p>
-<text:p text:style-name="Text_20_body">Íå çíàþ, íàì â êëàññå ãîâîðèëè
-0,013 è 0,08 , ÿ íå çíàþ îòêóäà òû âçÿë äðóãèå çíà÷åíèÿ</text:p>
-<text:p text:style-name="Text_20_body">Âû, 27 íîÿ 2023 â
-6:50:03</text:p>
-<text:p text:style-name="Text_20_body">ìû æå â ýòî â êëàññå
-ñ÷èòàëè</text:p>
-<text:p text:style-name="Text_20_body">Âû, 27 íîÿ 2023 â
-6:49:58</text:p>
-<text:p text:style-name="Text_20_body">à êàêîâà õóÿ òîëüêî ó ìåíÿ â ýòîì
-îøèáêà...</text:p>
-<text:p text:style-name="Text_20_body">Âû, 27 íîÿ 2023 â
-6:49:46</text:p>
-<text:p text:style-name="Text_20_body">äà</text:p>
-<text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="https://vk.com/id302152734" office:name=""><text:span text:style-name="Definition">Ìàêñèì
-Åëêèí</text:span></text:a>, 27 íîÿ 2023 â 6:46:10</text:p>
-<text:p text:style-name="Text_20_body">Íàäî áûëî áðàòü äëÿ öåçèÿ 0,013 è
-äëÿ ñòðîíöèÿ 0,08</text:p>
-<text:p text:style-name="Text_20_body">Âû, 27 íîÿ 2023 â
-6:45:24</text:p>
-<text:p text:style-name="Text_20_body">ó ìåíÿ êîðî÷å íåïðàâèëüíî âîò
-ïðîâåðü ñåáÿ</text:p>
-<text:p text:style-name="Text_20_body">Âû, 27 íîÿ 2023 â
-6:45:15</text:p>
-<text:p text:style-name="Text_20_body">ÿ 0.0046 è 0.05 äëÿ öåçèÿ è
-ñòðîíöèÿ ñîîòâ</text:p>
-<text:p text:style-name="Text_20_body">Âû, 27 íîÿ 2023 â
-6:45:00</text:p>
-<text:p text:style-name="Text_20_body">à òû ñìîòðè òû êîãäà Äîçó âíóòð
-ñ÷èòàë, òû òàì êàêîé Êä áðàë?</text:p>
-<text:p text:style-name="Text_20_body">Âû, 27 íîÿ 2023 â
-6:44:44</text:p>
-<text:p text:style-name="Text_20_body">Ìàêñ ïðèâåò</text:p>
-<text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="https://vk.com/id302152734" office:name=""><text:span text:style-name="Definition">Ìàêñèì
-Åëêèí</text:span></text:a>, 25 íîÿ 2023 â 15:07:51</text:p>
-<text:p text:style-name="Text_20_body">Ïîíÿë</text:p>
-<text:p text:style-name="Text_20_body">Âû, 25 íîÿ 2023 â
-15:07:36</text:p>
-<text:p text:style-name="Text_20_body">íà ñèëîñ</text:p>
-<text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="https://vk.com/id302152734" office:name=""><text:span text:style-name="Definition">Ìàêñèì
-Åëêèí</text:span></text:a>, 25 íîÿ 2023 â 15:07:17</text:p>
-<text:p text:style-name="Text_20_body">Íà ìîëîêî èëè ìÿñî?</text:p>
-<text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="https://vk.com/id302152734" office:name=""><text:span text:style-name="Definition">Ìàêñèì
-Åëêèí</text:span></text:a>, 25 íîÿ 2023 â 15:07:12</text:p>
-<text:p text:style-name="Text_20_body">Î êàê, è ÷å ìíå ñ íèì
-äåëàòü</text:p>
-<text:p text:style-name="Text_20_body">Âû, 25 íîÿ 2023 â
-15:06:38</text:p>
-<text:p text:style-name="Text_20_body">Äåðæè íèêèòó ñåðãååâè÷à 👉⛹‍♂ ( â
-íåé 3 Çâ Cs)</text:p>
-<text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="https://vk.com/id302152734" office:name=""><text:span text:style-name="Definition">Ìàêñèì
-Åëêèí</text:span></text:a>, 25 íîÿ 2023 â 15:05:14</text:p>
-<text:p text:style-name="Text_20_body">Äåðæè çàðàæ¸ííóþ êîðîâó 👉🐄 ( â
-íåé 3 Çâ Cs)</text:p>
-<text:p text:style-name="Text_20_body">Âû, 25 íîÿ 2023 â
-15:04:07</text:p>
-<text:p text:style-name="Text_20_body">Äåðæè 👉-6000💵</text:p>
-<text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="https://vk.com/id302152734" office:name=""><text:span text:style-name="Definition">Ìàêñèì
-Åëêèí</text:span></text:a>, 25 íîÿ 2023 â 15:03:17</text:p>
-<text:p text:style-name="Text_20_body">Äåðæè👆</text:p>
-<text:p text:style-name="Text_20_body">1 ïðèêðåïë¸ííîå
-ñîîáùåíèå</text:p>
-<text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="https://vk.com/id302152734" office:name=""><text:span text:style-name="Definition">Ìàêñèì
-Åëêèí</text:span></text:a>, 25 íîÿ 2023 â 15:03:10</text:p>
-<text:p text:style-name="Text_20_body">Î ñïàñèáî🙏💕🙏💕, ùàñ ñðàçó
-îòäàì òåáå</text:p>
-<text:p text:style-name="Text_20_body">Âû, 25 íîÿ 2023 â
-15:02:41</text:p>
-<text:p text:style-name="Text_20_body">Äåðæè 👉3000000000💵</text:p>
-<text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="https://vk.com/id302152734" office:name=""><text:span text:style-name="Definition">Ìàêñèì
-Åëêèí</text:span></text:a>, 25 íîÿ 2023 â 15:01:51</text:p>
-<text:p text:style-name="Text_20_body">Áîëüøå íåòó</text:p>
-<text:p text:style-name="Text_20_body">Âû, 25 íîÿ 2023 â
-15:01:22</text:p>
-<text:p text:style-name="Text_20_body">ñïàñèáî íî ýòî ìåíüøå ïðîöåíòà îò
-ïîëíîé ñóììû</text:p>
-<text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="https://vk.com/id302152734" office:name=""><text:span text:style-name="Definition">Ìàêñèì
-Åëêèí</text:span></text:a>, 25 íîÿ 2023 â 15:00:46</text:p>
-<text:p text:style-name="Text_20_body">Õâàòèò?</text:p>
-<text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="https://vk.com/id302152734" office:name=""><text:span text:style-name="Definition">Ìàêñèì
-Åëêèí</text:span></text:a>, 25 íîÿ 2023 â 15:00:40</text:p>
-<text:p text:style-name="Text_20_body">Äåðæè 👉3000💵</text:p>
-<text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="https://vk.com/id302152734" office:name=""><text:span text:style-name="Definition">Ìàêñèì
-Åëêèí</text:span></text:a>, 25 íîÿ 2023 â 14:59:58</text:p>
-<text:p text:style-name="Text_20_body">😯</text:p>
-<text:p text:style-name="Text_20_body">Âû, 25 íîÿ 2023 â
-14:59:56</text:p>
-<text:p text:style-name="Text_20_body">îäèí ìêÇâ ñòîèò ïàðó
-ëÿìîâ</text:p>
-<text:p text:style-name="Text_20_body">Âû, 25 íîÿ 2023 â
-14:59:43</text:p>
-<text:p text:style-name="Text_20_body">îî</text:p>
-<text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="https://vk.com/id302152734" office:name=""><text:span text:style-name="Definition">Ìàêñèì
-Åëêèí</text:span></text:a>, 25 íîÿ 2023 â 14:59:08 (ðåä.)</text:p>
-<text:p text:style-name="Text_20_body">Ïåðåâåäè ìêÇâ â ðóáëè òîãäà
-ïåðåâåäó äåíüãè</text:p>
-<text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="https://vk.com/id302152734" office:name=""><text:span text:style-name="Definition">Ìàêñèì
-Åëêèí</text:span></text:a>, 25 íîÿ 2023 â 14:58:38</text:p>
-<text:p text:style-name="Text_20_body">Ààõõàõà</text:p>
-<text:p text:style-name="Text_20_body">Âû, 25 íîÿ 2023 â
-14:58:28</text:p>
-<text:p text:style-name="Text_20_body">ñðàçó ðåøèëñÿ</text:p>
-<text:p text:style-name="Text_20_body">3 ïðèêðåïë¸ííûõ
-ñîîáùåíèÿ</text:p>
-<text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="https://vk.com/id302152734" office:name=""><text:span text:style-name="Definition">Ìàêñèì
-Åëêèí</text:span></text:a>, 25 íîÿ 2023 â 14:58:13</text:p>
-<text:p text:style-name="Text_20_body">Î êàê</text:p>
-<text:p text:style-name="Text_20_body">Âû, 25 íîÿ 2023 â
-14:58:08</text:p>
-<text:p text:style-name="Text_20_body">áàáêè</text:p>
-<text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="https://vk.com/id302152734" office:name=""><text:span text:style-name="Definition">Ìàêñèì
-Åëêèí</text:span></text:a>, 25 íîÿ 2023 â 14:58:03</text:p>
-<text:p text:style-name="Text_20_body">Ïðîáêè</text:p>
-<text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="https://vk.com/id302152734" office:name=""><text:span text:style-name="Definition">Ìàêñèì
-Åëêèí</text:span></text:a>, 25 íîÿ 2023 â 14:58:00</text:p>
-<text:p text:style-name="Text_20_body">×òî âûáüåò?</text:p>
-<text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="messages0.html" office:name=""><text:span text:style-name="Definition"></text:span></text:a></text:p>
-<text:p text:style-name="Text_20_body">1</text:p>
-<text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="messages50.html" office:name=""><text:span text:style-name="Definition"></text:span></text:a></text:p>
-<text:p text:style-name="Text_20_body">2</text:p>
-<text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="messages100.html" office:name=""><text:span text:style-name="Definition"></text:span></text:a></text:p>
-<text:p text:style-name="Text_20_body">3</text:p>
-<text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="messages500.html" office:name=""><text:span text:style-name="Definition"></text:span></text:a></text:p>
-<text:p text:style-name="Text_20_body">»</text:p>
-</office:text>
-</office:body>
-</office:document-content>
